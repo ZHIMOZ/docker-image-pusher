@@ -1,1 +1,9 @@
 logstash:7.17.14
+mysql:8.0.32
+redis:6.2
+phpmyadmin:5.2.1
+rabbitmq:3.12.9
+zookeeper:3.9.0
+nacos/nacos-server:v2.2.3-slim
+portainer
+spryker/redis-commander:0.8.0
