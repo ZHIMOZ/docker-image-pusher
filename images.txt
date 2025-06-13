@@ -1,1 +1,2 @@
-fatedier/frps:v0.60.0
+nacos-server:v2.2.3-slim
+phpmyadmin:5.2.1

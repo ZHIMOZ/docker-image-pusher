@@ -1,4 +1,4 @@
-# 命令执行 docker-compose -f docker-compose-environment-private.yml up -d
+# 命令执行 docker-compose -f docker-compose-private.yml up -d
 version: '3.9'
 services:
   # 注册中心 https://github.com/nacos-group/nacos-docker - 其他配置可参考(集群)
