@@ -1,2 +1,2 @@
-portainer:latest
+portainer/portainer:latest
 registry:latest
