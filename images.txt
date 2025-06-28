@@ -1,2 +1,1 @@
-portainer/portainer:latest
-registry:latest
+nginx:1.25.1
